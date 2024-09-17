@@ -1,1 +1,3 @@
 # asteroids_clone
+
+a simple asteroids clone. unfinished...
